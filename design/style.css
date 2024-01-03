@@ -3,6 +3,7 @@ div{
     padding: 10px;
     margin-bottom: 25px;
     margin-top: 20px;
+    margin-left: 15px;
     border: 1px aqua;
     border-radius: 10px;
     box-shadow: 10px 10px 10px 5px lightgrey;
@@ -29,4 +30,8 @@ li{
     color: green;
     font-size: 28px;
 
+}
+img{
+    box-shadow: 10px 10px 10px 5px lightgrey;
+    scroll-behavior: smooth;
 }
