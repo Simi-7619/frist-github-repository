@@ -1,0 +1,32 @@
+div{
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    border: 1px aqua;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 5px lightgrey;
+    text-align: left;
+    max-width: 1800px;
+    /* align-content: center; */
+    align-self:center
+}
+
+h2{
+    color: blue;
+    font-size: 40px;
+    font-family:playfair display;
+    font-weight: 600;
+}
+p{
+    color: crimson;
+    font-size: 22px;
+    font-style: oblique;
+    line-height: 32px;
+    font-family: sans-serif;
+}
+li{
+    color: green;
+    font-size: 28px;
+
+}
